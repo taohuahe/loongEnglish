@@ -1,0 +1,42 @@
+family,representative_form,domain,evidence_level,usage_type,why_it_matters,source_url
+医,med,医疗健康,strong,dictionary_abbreviation,英语里已经承认 med 可表示 medical,https://www.merriam-webster.com/dictionary/med
+医,med school,医疗健康,strong,official_university_usage,证明 med 可以作为医系短词根进入正式语境,https://med.stanford.edu/news/all-news/2018/09/new-med-school-curriculum-expands-opportunities-for-research.html
+医,Penn Medicine,医疗健康,strong,official_brand,证明医学语义可以稳定挂在 med 上形成机构品牌,https://www.pennmedicine.org/
+肉,pig meat,饮食,strong,industry_usage,证明动物名加 meat 已在国际农业英语中真实存在,https://www.fao.org/4/y4252e/y4252e05b.htm
+肉,cow meat,饮食,medium,industry_usage,证明透明肉类组合并非完全不存在,https://www.fao.org/4/Y4732E/y4732e09.htm
+肉,sheep meat,饮食,strong,industry_usage,证明 sheep 加 meat 在行业英语里自然存在,https://www.fao.org/family-farming/detail/en/c/1398993/
+肉,goat meat,饮食,strong,government_usage,证明美国官方食品安全语境接受 goat meat,https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-catfish/goat-farm-table
+奶,cow milk,饮食,strong,industry_usage,证明动物名加 milk 是稳定透明组合,https://www.fao.org/dairy-production-products/products/milk-composition/
+奶,sheep milk,饮食,strong,industry_usage,证明 milk 系很适合系统化扩展,https://www.fao.org/dairy-production-products/products/milk-composition/
+奶,goat milk,饮食,strong,industry_usage,证明 goat 加 milk 已是自然表达,https://www.fao.org/dairy-production-products/dairy/small-ruminants/en
+费,parking fee,财务行政,strong,government_usage,证明 X-fee 在公共收费场景里高度自然,https://www.portland.gov/transportation/40219
+费,membership fees,财务行政,strong,government_usage,证明 fee 可稳定承接会费类结构,https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/summary-policy-m05-membership-fees.html
+费,water service base fee,财务行政,strong,government_usage,证明水费体系中也已有 fee 路线,https://www.stpaul.gov/departments/saint-paul-regional-water-services/billing-and-payment/rates-and-fees
+卡,student card,证件卡片,strong,official_institution_usage,证明 X-card 是英语里自然的证件表达,https://www.ed.ac.uk/students/new-students/online-students/getting-started/apply-for-and-receive-your-university-student-card
+卡,health card,证件卡片,strong,government_usage,证明 health card 是稳定官方表达,https://www.canada.ca/en/health-canada/services/health-care-system/canada-health-care-system-medicare/provincial-territorial-health-care-resources.html
+卡,library card,证件卡片,strong,official_institution_usage,证明借书证类表达天然适合挂在 card 上,https://www.dallaslibrary.org/services/library-card
+网,netizen,互联网,strong,dictionary_word,证明 net 已可进入互联网身份命名,https://www.merriam-webster.com/dictionary/netizen
+课,online course,教育互联网,strong,official_university_usage,证明课程类可以自然做透明组合,https://www.marshall.edu/online/disclaimers-and-definitions/
+网,online banking,互联网,strong,official_bank_usage,证明线上金融场景天然接受透明网络前缀,https://www.chase.com/digital/online-banking
+网,online banking,互联网,strong,official_bank_usage,证明 large bank 也稳定采用 online banking,https://info.bankofamerica.com/en/digital-banking
+店,online store,商业空间,strong,official_university_usage,证明店类场景可自然进入透明组合,https://onlinesales.admin.cam.ac.uk/
+店,official online store,商业空间,strong,official_university_usage,证明高校商业场景普遍接受 online store,https://shop.stanford.edu/
+房,bedroom,空间,strong,dictionary_word,证明英语本身接受中文式的名词加 room 透明组合,https://www.merriam-webster.com/dictionary/bedroom
+室,study room,空间,strong,official_institution_usage,证明 study room 已是公共机构自然表达,https://libraries.colorado.edu/about/policies/library-study-room-policy
+室,study room,空间,strong,official_institution_usage,证明 study room 在公共图书馆体系也高度自然,https://www.saclibrary.org/about-us/policies/study-room-policy
+室,exam room,空间,strong,government_medical_usage,证明 exam room 在医疗系统正式使用,https://www.cc.nih.gov/patient-info/services/photo-journey
+室,exam room,空间,strong,official_hospital_usage,证明 exam room 在医院语境稳定自然,https://www.augustahealth.com/2024/11/ribbon-cutting-ceremony-for-augusta-health-forensic-exam-roomat-the-valley-childrens-advocacy-center/
+车,school bus,交通,strong,government_usage,证明 school 加 vehicle 已是标准透明组合,https://www.dot.ny.gov/divisions/operating/osss/bus/school
+车,fire truck,交通,strong,dictionary_word,证明功能词加 vehicle 在英语里本就成立,https://www.merriam-webster.com/dictionary/fire%20truck
+云,cloud storage,互联网,strong,official_product_usage,证明云系是英语里已经被接受的透明技术组合,https://cloud.google.com/storage
+云,cloud storage,互联网,strong,official_product_usage,证明 cloud storage 在主流产品语境高度自然,https://www.dropbox.com/features/cloud-storage
+站,base station,互联网通信,medium,industry_glossary,证明站系在通信英语里存在透明组合前例,https://glossary.atis.org/glossary/base-station/
+端,front-end developer,互联网开发,medium,official_docs_usage,证明前后结构在开发英语里已形成半系统,https://developer.mozilla.org/curriculum
+端,front-end developer,互联网开发,medium,official_docs_usage,证明 front-end 路线在 MDN 生态里长期存在,https://hacks.mozilla.org/2020/06/introducing-the-mdn-web-docs-front-end-developer-learning-pathway/
+证,certificate,证件卡片,medium,government_technical_usage,证明证类表达在正式英语中经常通过 certificate 承接,https://doh.wa.gov/sites/default/files/2024-03/344085-GeneticsGlossary.pdf
+亲属细分,paternal uncle,亲属,medium,government_glossary,证明英语虽然缺单词但已存在描述性结构,https://doh.wa.gov/sites/default/files/2024-03/344085-GeneticsGlossary.pdf
+亲属细分,elder brother,亲属,medium,dictionary_usage,证明年龄差关系可通过透明修饰语显式表达,https://www.merriam-webster.com/dictionary/elder
+亲属细分,elder,亲属,medium,dictionary_usage,证明 elder 在词典里保留年龄排序语义,https://dictionary.cambridge.org/us/dictionary/essential-american-english/elder
+相对时间,the day after tomorrow,时间,weak,phrase_patchwork,证明英语通常只能靠短语补洞而非词族系统,https://dictionary.cambridge.org/us/dictionary/english/tomorrow
+星期编号,Monday,时间,weak,historical_name,证明英语星期名称历史性强且不透明,https://www.merriam-webster.com/dictionary/Monday
+月份编号,January,时间,weak,historical_name,证明英语月份名称历史性强且不透明,https://www.merriam-webster.com/dictionary/January
